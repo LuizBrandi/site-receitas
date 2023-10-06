@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/site-receitas/static/css/main.9af2c28e.css",
-    "main.js": "/site-receitas/static/js/main.b0090dfb.js",
+    "main.js": "/site-receitas/static/js/main.ffec49b4.js",
     "static/media/chicken_pie.jpg": "/site-receitas/static/media/chicken_pie.f148095c49987695264c.jpg",
     "index.html": "/site-receitas/index.html",
     "main.9af2c28e.css.map": "/site-receitas/static/css/main.9af2c28e.css.map",
-    "main.b0090dfb.js.map": "/site-receitas/static/js/main.b0090dfb.js.map"
+    "main.ffec49b4.js.map": "/site-receitas/static/js/main.ffec49b4.js.map"
   },
   "entrypoints": [
     "static/css/main.9af2c28e.css",
-    "static/js/main.b0090dfb.js"
+    "static/js/main.ffec49b4.js"
   ]
 }
