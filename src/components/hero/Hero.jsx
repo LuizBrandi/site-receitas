@@ -55,16 +55,16 @@ const Hero = () => {
           </div>
         </div>
         <div className={classes.right}>
-          <img src={meal} />
+          <img src={meal} alt='chickenRecipe'/>
           <div className={classes.chickenMeal}>
             <div className={classes.imgContainer}>
-              <img src={chickenRecipe?.strMealThumb} />
+              <img src={chickenRecipe?.strMealThumb} alt='chickenRecipe'/>
             </div>
             <h5>{chickenRecipe?.strMeal}</h5>
           </div>
           <div className={classes.burgerMeal}>
             <div className={classes.imgContainer}>
-              <img src={burguerRecipe?.strMealThumb} />
+              <img src={burguerRecipe?.strMealThumb} alt='burguerRecipe'/>
             </div>
             <h5>{burguerRecipe?.strMeal}</h5>
           </div>

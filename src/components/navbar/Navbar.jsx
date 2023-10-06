@@ -12,7 +12,7 @@ const Navbar = () => {
             </Link>
             <div className={classes.center}></div>
             <div className={classes.right}>
-                <input type="text" placeholder='Informe o nome da receita'/>
+                <input type="search" placeholder='Informe o nome da receita' className={classes.searchbar}/>
                 <AiOutlineSearch/>
             </div>
         </div>
